@@ -8,9 +8,9 @@
 </div>
 <h1></h1>
 
-- 🔭 I’m currently studying at **Wira Harapan Vocational**
+- 🔭 I’m currently studying at **bINUS UNIVERSITY**
 
-- 🌱 I’m currently learning **HTML, CSS, PHP, JAVA, SQL**
+- 🌱 I’m currently learning **Next JS, TAILWIND, LARAVEL, C, PYTHON**
 
 - 📫 How to reach me **argasuryadharma2@gmail.com**
 
