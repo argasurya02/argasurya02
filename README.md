@@ -8,7 +8,7 @@
 </div>
 <h1></h1>
 
-- 🔭 I’m currently studying at **bINUS UNIVERSITY**
+- 🔭 I’m currently studying at **BINUS UNIVERSITY**
 
 - 🌱 I’m currently learning **Next JS, TAILWIND, LARAVEL, C, PYTHON**
 
